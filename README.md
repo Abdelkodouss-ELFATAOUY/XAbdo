@@ -1,7 +1,7 @@
 # XAbdo - Versatile Internet-Connected Robot
 
 Welcome to the XAbdo project repository. XAbdo is a multi-purpose robot designed to connect to the Internet and answer questions using GPT-based chat. This README provides an overview of the project and instructions for getting started.
-![PXL_20231001_161428096 MP](https://github.com/Abdelkodouss-ELFATAOUY/XAbdo/assets/142337040/c64060d3-40a7-447a-94fd-a7fb8aca2cdd)
+![Screenshot_4](https://github.com/Abdelkodouss-ELFATAOUY/XAbdo/assets/142337040/f302030c-c828-4aaf-b85a-2fa4dbec914c)
 
 
 ## Table of Contents
