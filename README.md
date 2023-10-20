@@ -27,7 +27,8 @@ XAbdo consists of the following hardware components:
 - PCB with 2 ULN2003A motor driver modules
 - NodeMCU for connectivity
 - OLED display for user feedback
- ![Screenshot_20230823_172816_Samsung Internet_resized](https://github.com/Abdelkodouss-ELFATAOUY/XAbdo/assets/142337040/e5285726-9c51-402f-b662-6c7bcf3dd33f)
+  
+- ![Screenshot_20230823_172816_Samsung Internet_resized](https://github.com/Abdelkodouss-ELFATAOUY/XAbdo/assets/142337040/e5285726-9c51-402f-b662-6c7bcf3dd33f)
 
 ## Android Control App
 
