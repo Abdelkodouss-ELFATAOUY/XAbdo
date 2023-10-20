@@ -8,10 +8,8 @@ Welcome to the XAbdo project repository. XAbdo is a multi-purpose robot designed
 
 - [Features](#features)
 - [Hardware Components](#hardware-components)
-- [Getting Started](#getting-started)
 - [Android Control App](#android-control-app)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -30,9 +28,13 @@ XAbdo consists of the following hardware components:
 - NodeMCU for connectivity
 - OLED display for user feedback
 
-## Getting Started
+## Android Control App
 
-To use XAbdo, follow these steps:
+We've developed an Android application that allows you to control XAbdo wirelessly. Instructions for setting up and using the app can be found in the [Android Control App documentation](android-app/README.md).
 
-1. **Clone the Repository:** Clone this GitHub repository to your local machine using the following command:
+
+
+---
+
+We hope you enjoy using XAbdo. If you have any questions or need assistance, feel free to [open an issue](https://github.com/yourusername/XAbdo/issues) or [contact us](mailto:your.email@example.com).
 
