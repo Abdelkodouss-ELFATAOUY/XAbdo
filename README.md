@@ -30,7 +30,7 @@ XAbdo consists of the following hardware components:
 
 ## Android Control App
 
-We've developed an Android application that allows you to control XAbdo wirelessly. Instructions for setting up and using the app can be found in the [Android Control App documentation](android-app/README.md).
+We've developed an Android application that allows you to control XAbdo wirelessly. Instructions for setting up and using the app can be found in the [Android Control App documentation](XAbdo/README.md).
 
 
 
